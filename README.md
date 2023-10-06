@@ -1,1 +1,1 @@
-# surendhminiproject
+# miniproject
